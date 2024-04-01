@@ -18,7 +18,7 @@ Here we are discussing  Loan application analysis to monitor bank-leading activi
 5. ##### Average Date to Income Ratio(DTI): Evaluating the average DTI for our borrowers helps us gauge their financial health. We need to compute the average DTI for all loans, MTD, and track Month-over-Month (MoM) fluctuations.
  
  
-![BankLoan_ERD)](/Resources/Bank_loan_summary.png) 
+![bank](/Resources/retiring_titles1.png)
 
 
 ### Good Loan v Bad Loan KPI’s
