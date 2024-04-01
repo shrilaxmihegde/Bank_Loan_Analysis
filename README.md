@@ -17,7 +17,9 @@ Here we are discussing  Loan application analysis to monitor bank-leading activi
 
 5. ##### Average Date to Income Ratio(DTI): Evaluating the average DTI for our borrowers helps us gauge their financial health. We need to compute the average DTI for all loans, MTD, and track Month-over-Month (MoM) fluctuations.
  
-![BankLoan_ERD)](/Resources/Bank_loan_summary.png)
+ 
+![BankLoan_ERD)](/Resources/Bank_loan_summary.png) 
+
 
 ### Good Loan v Bad Loan KPI’s
 
@@ -56,14 +58,18 @@ In our Bank Loan Report project, we aim to visually represent critical loan-rela
 5. #### Loan Purpose Breakdown (Bar Chart):
 
 6. #### Home Ownership Analysis (Tree Map):
+   
 
 ![BankLoan_ERD)](/Resources/Bank_loan_overview.png)
+
 
 ### DASHBOARD 3: DETAILS
 
 In our Bank Loan Report project, we recognize the need for a comprehensive 'Details Dashboard' that provides a consolidated view of all the essential information within our loan data. This Details Dashboard aims to offer a holistic snapshot of key loan-related metrics and data points, enabling users to access critical information efficiently.
 
+
 ![BankLoan_ERD)](/Resources/Bank_loan_details.png)
+
 
 ## Objective:
 The primary objective of the Details Dashboard is to provide a comprehensive and user-friendly interface for accessing vital loan data. It will serve as a one-stop solution for users seeking detailed insights into our loan portfolio, borrower profiles, and loan performance.
